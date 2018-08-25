@@ -4,14 +4,6 @@ React server side rendering boilerplate
 
 ## Installation
 
-Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
-
-```
-npm install react-server-boilerplate --save
-```
-
-
-
 ## Dependencies
 
 - [express](https://github.com/expressjs/express): Fast, unopinionated, minimalist web framework
